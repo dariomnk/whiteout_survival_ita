@@ -2,14 +2,16 @@
 
 Consigli generali nei casi di attacco e difesa:
 
-- Attacco : JESSIE come eroe principale
+- Attacco :
+JESSIE come eroe principale
 —> formazione :
             50% fanteria 
             20% lancieri
             30% tiratori 
 			
 			
-- Difesa/Presidio : SERGEY come eroe principale + PATRICK
+- Difesa/Presidio : 
+SERGEY come eroe principale + PATRICK
 —> formazione :
            60% fanteria 
            20% lancieri
@@ -17,6 +19,10 @@ Consigli generali nei casi di attacco e difesa:
 		   
 		   
 
-non è importante che siano maxati. è il loro skill buff che funziona.
+non è importante che siano maxati
+è il loro skill buff che funziona.
 
 - NO Truppe al di sotto di LV7 
+
+
+.
